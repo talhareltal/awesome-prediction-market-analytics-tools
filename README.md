@@ -10,7 +10,7 @@ Maintained by [Predictbook](https://predictbook.co): independent market-mechanic
 
 A working list of tools for trading, tracking, and researching prediction markets (Polymarket, Kalshi, and others). Each entry covers what it does, what it's best for, who's behind it (where that's actually public), pricing, and phase. Entries are added as they're found. Nothing here is guaranteed to be maintained by its creators, so vet anything you connect a wallet to.
 
-Want all of the tools below in one place? Follow the [Predictbook Prediction Market Tools X List](https://x.com/i/lists/2087458894452818184).
+Want all of the tools below in one place? Follow the [Prediction Market Tools X List](https://x.com/i/lists/2087458894452818184).
 
 Every tool here gets reviewed monthly to catch dead links, pulled products, and anything that's gone quiet. Flag anything we've missed and we'll get to it.
 
