@@ -35,12 +35,11 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 ## ⭐ Featured
 
-- **[Predictbook](https://predictbook.co)**: Independent analysis of prediction markets focused strictly on mechanics.
-  Odds moves, volume spikes, and timing versus the underlying news. No takes, just the numbers.
-  - **Best for:** anyone who wants the actual numbers instead of the takes.
-  - **Team:** Predictbook (publishes this list).
-  - **Follow:** [X](https://x.com/predictbook) · [Telegram (analysis)](https://t.me/PredictbookAnalysis) · [Telegram (alerts)](https://t.me/Predictbook)
-  - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+- **[Predictbook](https://predictbook.co)**: Independent prediction-market intelligence, built to make Kalshi and Polymarket pricing actually legible.
+  Real-time monitoring across politics, crypto, sports, tech, and economics, plus whale-move tracking and cross-platform arbitrage spotting. This is written analysis, not just alerts: every piece cites its sources and links the underlying market, explaining not just what a price is but why it got there and what trade it implies.
+  - **Best for:** anyone who wants the numbers explained in writing, not just pinged at.
+  - **Follow:** [X](https://x.com/predictbook) · [Substack](https://predictbook.substack.com/) · [Telegram (analysis)](https://t.me/PredictbookAnalysis) · [Telegram (alerts)](https://t.me/Predictbook)
+  - **Reviewed:** Aug 2026
 
 [↑ Back to top](#top)
 
