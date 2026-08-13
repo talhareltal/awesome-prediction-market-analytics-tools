@@ -321,6 +321,13 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
+- **[PolyOrderbooks](https://polyorderbooks.com)**: Read-only REST API and Python SDK for historical Polymarket crypto markets: discovery, bucketed prices, volume/liquidity/spread metrics, and L2 order book snapshots. Queries run against a hosted archive (not live Polymarket on the read path). Resolution down to 1s on paid plans; [developer docs](https://docs.polyorderbooks.com) and [OpenAPI](https://docs.polyorderbooks.com/openapi.json) are public.
+  - **Best for:** backtests and research that need stored L2 depth and market-level time series without operating your own ingestion stack.
+  - **Team:** independent product; not affiliated with Polymarket (per site).
+  - **Pricing:** Starter free, Pro $19/mo, Scale $49/mo (public [pricing page](https://polyorderbooks.com/pricing)); Enterprise custom.
+  - **Phase:** live.
+  - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+
 [↑ Back to top](#top)
 
 ---
