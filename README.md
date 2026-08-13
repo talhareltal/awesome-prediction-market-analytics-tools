@@ -241,6 +241,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
+- **[Conviction Lens](https://convictionlens.com/)**: Reconstructs complete public Polymarket trader histories with realised PnL, drawdown, open positions, and category performance.
+  Includes original cohort research. Research and analytics only, does not connect to wallets or execute trades.
+  - **Best for:** checking whether headline PnL and win rate actually hold up across a wallet's complete history.
+  - **Team:** operated by Jérémie Blaser, based in Switzerland (per Conviction Lens' own Legal & Risk Notice).
+  - **Pricing:** free profiles, additional Pro analytics.
+  - **Phase:** live.
+  - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+
 [↑ Back to top](#top)
 
 ---
