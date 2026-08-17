@@ -248,6 +248,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Pricing:** free profiles, additional Pro analytics.
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+ 
+- **[OrcaLayer](https://orcalayer.com/)**: Polymarket analytics covering wallet lookup, smart-money leaderboards, whale alerts, and market research, built on its own index of on-chain fills from the Polygon CTF contracts.
+  Farmer filter removes airdrop-farmed wallets from rankings, NegRisk correction fixes win rates on multi-outcome markets, plus side-level FIFO PnL, median hold time, category hubs, trader comparison, an ISW-based territory monitor for Ukraine markets, a Telegram signal channel, and a REST API.
+  - **Best for:** telling whether a headline 90%+ win rate is real conviction or volume farmed at 95 cents and above.
+  - **Team:** solo developer. Scoring methodology and weights published on the site.
+  - **Pricing:** free tier, paid plans for API access and alerts.
+  - **Phase:** live.
+  - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
 [↑ Back to top](#top)
 
