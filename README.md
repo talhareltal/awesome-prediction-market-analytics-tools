@@ -89,9 +89,9 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
-- **[PolyBot](https://polybot.trading/)**: Telegram-native, self-custodial Polymarket trading bot with wallet discovery and automated copy trading.
-  Follow selected public wallets and mirror trades through your own Safe wallet with configurable sizing, market filters, slippage, daily caps, and exit controls.
-  - **Best for:** traders who want wallet research, copy rules, and execution in one Telegram workflow.
+- **[PolyBot](https://polymarket.vote/project/polybot)**: Telegram-native, self-custodial Polymarket trading system that turns smart-wallet discovery into automated execution.
+  Its Smart Wallets engine goes beyond raw leaderboards to surface traders by copyability, sustained 7d/30d performance, consistency, slippage, copy-capital requirements, modeled copy P&L, and risk flags. Follow a wallet through your own Safe with fixed or proportional sizing, market or limit execution, price and category filters, daily and per-position caps, plus stop-loss, take-profit, trailing-stop, and counter-trade controls. Also includes strategy automation, sponsored gas, portfolio and performance tracking, alerts, advanced orders, and 2FA.
+  - **Best for:** serious Polymarket traders who want to find wallets worth copying, pressure-test the edge, and automate the trade without leaving Telegram.
   - **Team:** not publicly listed.
   - **Pricing:** 1% fee on successful trades.
   - **Phase:** live.
