@@ -49,6 +49,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 ## 🌐 Cross-Platform Odds Aggregators
 
+- **[Polyrama](https://polyrama.io/)**: Free real-time terminal and [open-source MCP server](https://github.com/Polyrama/mcp) for Polymarket and Kalshi.
+  Combines live odds and market search with public-wallet analytics, trader leaderboards, whale and mispricing signals, dashboard snapshots, and historical backtests. Its MCP tools support research and paper orders only, not live execution.
+  - **Best for:** researchers and AI agents that need one typed interface for cross-venue market and trader intelligence.
+  - **Team:** independent Polyrama team.
+  - **Pricing:** free.
+  - **Phase:** live.
+  - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+
 - **[Predictefy](https://predictefy.com/)**: Aggregates and normalizes odds and volume across Polymarket, Kalshi, and other venues into one terminal.
   Built for spotting cross-platform arbitrage without juggling multiple tabs.
   - **Best for:** traders comparing odds across platforms instead of tab-hopping.
