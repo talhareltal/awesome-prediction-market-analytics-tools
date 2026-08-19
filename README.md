@@ -97,14 +97,6 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 ## ⚡ Trading Terminals & Execution
 
-- **[Kairos](https://kairos.trade/)**: Trading terminal and API across Kalshi, Polymarket, Predict.fun, and Hyperliquid.
-  Stacks matching contracts into a single composite order book and routes orders to the best price on any venue. Colocated feeds, sub-second streaming books, market-making and arbitrage strategy templates, backtesting against recorded books, and REST + WebSocket APIs with a free sandbox. Execution round trips in tens of milliseconds (self-reported).
-  - **Best for:** heavy cross-venue traders who don't want a separate login for every platform.
-  - **Team:** founded by ex-Cboe quants. Raised $2.5M led by a16z crypto with Geneva Trading participating (per a16z crypto and Fortune coverage).
-  - **Pricing:** free sandbox, paid tiers not publicly listed.
-  - **Phase:** live.
-  - **Added:** Aug 2026 · **Reviewed:** Aug 2026
-
 - **[Stand](https://www.stand.trade/)**: Trading terminal and aggregator for Kalshi and Polymarket with a "counter-trading" feature.
   Auto-fades historically unprofitable wallets instead of following the crowd.
   - **Best for:** traders who'd rather fade known losers than copy winners.
@@ -126,6 +118,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Best for:** traders who want execution and wallet tracking in the same tab.
   - **Team:** not publicly listed (a third-party directory attributes it to "a small New York team," unconfirmed).
   - **Pricing:** not publicly listed.
+  - **Phase:** live.
+  - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+
+- **[Kairos](https://kairos.trade/)**: Trading terminal and API across Kalshi, Polymarket, Predict.fun, and Hyperliquid.
+  Stacks matching contracts into a single composite order book and routes orders to the best price on any venue. Colocated feeds, sub-second streaming books, market-making and arbitrage strategy templates, backtesting against recorded books, and REST + WebSocket APIs with a free sandbox. Execution round trips in tens of milliseconds (self-reported).
+  - **Best for:** heavy cross-venue traders who don't want a separate login for every platform.
+  - **Team:** founded by ex-Cboe quants. Raised $2.5M led by a16z crypto with Geneva Trading participating (per a16z crypto and Fortune coverage).
+  - **Pricing:** free sandbox, paid tiers not publicly listed.
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
@@ -248,7 +248,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Pricing:** free profiles, additional Pro analytics.
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
- 
+
 - **[OrcaLayer](https://orcalayer.com/)**: Polymarket analytics covering wallet lookup, smart-money leaderboards, whale alerts, and market research, built on its own index of on-chain fills from the Polygon CTF contracts.
   Farmer filter removes airdrop-farmed wallets from rankings, NegRisk correction fixes win rates on multi-outcome markets, plus side-level FIFO PnL, median hold time, category hubs, trader comparison, an ISW-based territory monitor for Ukraine markets, a Telegram signal channel, and a REST API.
   - **Best for:** telling whether a headline 90%+ win rate is real conviction or volume farmed at 95 cents and above.
@@ -330,7 +330,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
 - **[TickFoundry](https://tickfoundry.com/)**: Archived Polymarket order-book data pulled straight off the live socket, not periodic snapshots.
-  Every book update, full L1 and 25-level L2 depth on both sides, trade data, and Polymarket's own sports state feed, continuous since June 21, 2026. Book capture has run since May 11, 2026, and a separate onchain fill layer reaches back further and carries wallet identity the socket data never had. One thing worth knowing: the feeds carry no `condition_id`, so joining scores to books is done by time, not by ID.
+  Every book update, full L1 and 25-level L2 depth on both sides, and trade data continuous since May 11, 2026. Live reference-price feeds and Polymarket's own sports state feed came online June 21, 2026, and a separate onchain fill layer reaches back further and carries wallet identity the socket data never had. One thing worth knowing: the feeds carry no `condition_id`, so joining scores to books is done by time, not by ID.
   - **Best for:** rebuilding exactly what the order book looked like at any past moment.
   - **Team:** built and run solo, self-disclosed rather than anonymous.
   - **Pricing:** free tier claims 5 market-days of your choosing, no card required. Paid tiers above that.
