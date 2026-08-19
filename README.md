@@ -198,7 +198,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Best for:** keeping tax season simple across multiple platforms.
   - **Team:** not publicly listed.
   - **Pricing:** Pro $19.99/mo, Genius $39.99/mo.
-  - **Phase:** live.
+  - **Phase:** Beta.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
 [↑ Back to top](#top)
