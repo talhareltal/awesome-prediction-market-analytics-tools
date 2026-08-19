@@ -52,7 +52,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 - **[Polyrama](https://polyrama.io/)**: Free real-time terminal and [open-source MCP server](https://github.com/Polyrama/mcp) for Polymarket and Kalshi.
   Combines live odds and market search with public-wallet analytics, trader leaderboards, whale and mispricing signals, dashboard snapshots, and historical backtests. Its MCP tools support research and paper orders only, not live execution.
   - **Best for:** researchers and AI agents that need one typed interface for cross-venue market and trader intelligence.
-  - **Team:** independent Polyrama team.
+  - **Team:** independent Polyrama team. Young project — the MCP server repo has minimal commit history as of Aug 2026, worth keeping an eye on.
   - **Pricing:** free.
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
@@ -97,10 +97,10 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
-- **[PolyBot](https://polymarket.vote/project/polybot)**: Telegram-native, self-custodial Polymarket trading system that turns smart-wallet discovery into automated execution.
+- **[PolyBot](https://polybot.trading/)**: Telegram-native, self-custodial Polymarket trading system that turns smart-wallet discovery into automated execution.
   Its Smart Wallets engine goes beyond raw leaderboards to surface traders by copyability, sustained 7d/30d performance, consistency, slippage, copy-capital requirements, modeled copy P&L, and risk flags. Follow a wallet through your own Safe with fixed or proportional sizing, market or limit execution, price and category filters, daily and per-position caps, plus stop-loss, take-profit, trailing-stop, and counter-trade controls. Also includes strategy automation, sponsored gas, portfolio and performance tracking, alerts, advanced orders, and 2FA.
   - **Best for:** serious Polymarket traders who want to find wallets worth copying, pressure-test the edge, and automate the trade without leaving Telegram.
-  - **Team:** not publicly listed.
+  - **Team:** not publicly listed. Domain registered ~Sept 2025 and flagged low-trust by third-party scanners — self-custodial via your own Safe (not a private-key/seed-phrase model), but vet independently before connecting a wallet.
   - **Pricing:** 1% fee on successful trades.
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
