@@ -169,6 +169,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 ## 📡 Signal & Fair-Value
 
+- **[EdgeMarket](https://edgemarket.co/)**: Analytics desk for Polymarket and crypto perps.
+  Public Oracle register (5-minute BTC/ETH/SOL/XRP calls confirmed at T+180s, misses published), operators ranked by measured alpha, funding/open-interest/liquidations across Binance, Bybit, OKX, and Hyperliquid.
+  - **Best for:** traders who want a dated track record and structure data, not another whale-alert firehose.
+  - **Team:** Yando Pte. Ltd.
+  - **Pricing:** free Observer; Operator $39/mo; Principal $79/mo.
+  - **Phase:** live.
+  - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+
 - **[PMIP](https://pmip.io/)**: Portfolio terminal tracking live spreads, positions, and P&L across Kalshi and Polymarket.
   Resolution-rule analysis and an AI analyst chat built in.
   - **Best for:** spotting mispricing from resolution-rule differences between venues.
