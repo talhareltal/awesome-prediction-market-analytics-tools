@@ -345,6 +345,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
 
+- **[Live Tennis API](https://livetennisapi.com)**: Real-time REST and WebSocket API streaming live tennis match state as structured JSON — score, sets/games/points, who's serving, a three-valued break-point flag, and retirement / walkover / completed status.
+  The same kind of ground-truth result data used to resolve tennis contracts on Polymarket and Kalshi (a match completing, a retirement, or a walkover is the resolution event). Covers ATP, WTA, and ITF down to the lower tours. An MIT-licensed, observe-only [match↔market matching toolkit](https://github.com/livetennisapi/polymarket-tennis) pairs the feed against Gamma tennis markets, and there's an [MCP server](https://www.npmjs.com/package/livetennisapi-mcp) on the official MCP Registry for agent research.
+  - **Best for:** checking the real resolution data behind tennis markets instead of scraping a scoreboard.
+  - **Team:** independent; operated by the Live Tennis API team (livetennisapi.com).
+  - **Pricing:** free tier (live scores, match state, players, fixtures; 30 req/min, 100/day, no card); paid plans above that.
+  - **Phase:** live.
+  - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+
 - **[TickFoundry](https://tickfoundry.com/)**: Archived Polymarket order-book data pulled straight off the live socket, not periodic snapshots.
   Every book update, full L1 and 25-level L2 depth on both sides, and trade data continuous since May 11, 2026. Live reference-price feeds and Polymarket's own sports state feed came online June 21, 2026, and a separate onchain fill layer reaches back further and carries wallet identity the socket data never had. One thing worth knowing: the feeds carry no `condition_id`, so joining scores to books is done by time, not by ID.
   - **Best for:** rebuilding exactly what the order book looked like at any past moment.
